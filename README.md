@@ -212,6 +212,8 @@ Final-year **Computer Science student** with a passion for building scalable app
 [![Email](https://img.shields.io/badge/Email-krishnagollapelli1976%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnagollapelli1976@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://krishnababu-portfolio.netlify.app/)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207995570069-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917995570069)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Krishna_gollapelli-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Krishna_gollapelli/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-krishnagollapelli-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/krishnagollapelli)
 
 </div>
 
