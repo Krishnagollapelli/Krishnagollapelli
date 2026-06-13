@@ -2,17 +2,23 @@
 
 # 👋 Hi, I'm Krishna Gollapelli
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst+Enthusiast;AI+%26+ML+Innovator;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/Krishnagollapelli">
     <img src="https://img.shields.io/badge/GitHub-Krishnagollapelli-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:krishnagollapelli1976@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/krishnagollapelli">
+  <a href="https://www.linkedin.com/in/gollapelli-krishna-746b02379/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://krishnababu-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="tel:+917995570069">
+    <img src="https://img.shields.io/badge/Phone-+91%207995570069-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
 </p>
 
@@ -20,7 +26,7 @@
 
 ## 🚀 About Me
 
-Final-year **Computer Science student** with a passion for building scalable applications and solving complex problems. I'm an aspiring **Data Analyst** and **Full Stack Developer** with deep expertise in **AI & Machine Learning**. I'm a fast learner, continuous learner, and always excited to collaborate on impactful projects.
+Final-year **Computer Science student** with a passion for building scalable applications and solving complex problems. I'm an aspiring **Data Analyst** and **Full Stack Developer** with deep expertise in modern web technologies, AI/ML, and data analytics.
 
 **🎯 Currently seeking:** Internship and Full-time opportunities | **📚 Learning:** Advanced Data Analytics & AI Applications
 
@@ -202,9 +208,10 @@ Final-year **Computer Science student** with a passion for building scalable app
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krishnagollapelli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishnagollapelli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Gollapelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnagollapelli)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Gollapelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapelli-krishna-746b02379/)
+[![Email](https://img.shields.io/badge/Email-krishnagollapelli1976%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnagollapelli1976@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://krishnababu-portfolio.netlify.app/)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%207995570069-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917995570069)
 
 </div>
 
